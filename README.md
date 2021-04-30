@@ -14,6 +14,9 @@ pip install -r requirements.txt
 
 Для работы в проекте необходим персональный токен, который вы запишете в .env в переменную BITLY_TOKEN. Для этого зарегистрируйтесь на [bitly.com](https://app.bitly.com), а затем [сгенерируйте токен](https://bitly.com/a/oauth_apps).
 *Generic access token* - нужный тип токена.
+```
+BITLY_TOKEN = 2612486e4c8c4852672123baae084b5cc8d6d2f2
+```
 
 ### Примеры запуска скрипта из консоли
 ```
